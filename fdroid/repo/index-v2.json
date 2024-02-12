@@ -14,17 +14,17 @@
       }
     },
     "address": "https://raw.githubusercontent.com/Eluded-Smartphones/fdroid/master/fdroid/repo",
-    "timestamp": 1707762013000
+    "timestamp": 1707762250000
   },
   "packages": {
     "com.eluded.privacymanager": {
       "metadata": {
-        "added": 1707762008000,
+        "added": 1707762245000,
         "categories": [
           "Internet",
           "Security"
         ],
-        "lastUpdated": 1707762008000,
+        "lastUpdated": 1707762245000,
         "license": "GPL-3.0",
         "sourceCode": "https://github.com/Eluded-Smartphones/Eluded-Privacy-Manager",
         "screenshots": {
@@ -61,7 +61,7 @@
       },
       "versions": {
         "5b9677f5a7466a4b0a710bd10891eb803aee050b293b2b596f1bcef1495e5694": {
-          "added": 1707762008000,
+          "added": 1707762245000,
           "file": {
             "name": "/EludedPrivacyManager_1.0.0.apk",
             "sha256": "5b9677f5a7466a4b0a710bd10891eb803aee050b293b2b596f1bcef1495e5694",
