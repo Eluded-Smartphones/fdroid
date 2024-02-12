@@ -9,22 +9,22 @@
     "icon": {
       "en-US": {
         "name": "/icons/icon.png",
-        "sha256": "5108106058d5d7d5e93665968624bfb25f9efbdbf8f985b27ff0ced46384f6d0",
-        "size": 993
+        "sha256": "051d12cb6fcea385a846e69ed48addc82f5796c2fd153f68942271cf511cbc10",
+        "size": 831
       }
     },
-    "address": "https://raw.githubusercontent.com/Eluded-Smartphones/fdroid/master/fdroid/repo",
-    "timestamp": 1707762250000
+    "address": "https://eluded-smartphones.github.io/fdroid/fdroid/repo",
+    "timestamp": 1707763640000
   },
   "packages": {
     "com.eluded.privacymanager": {
       "metadata": {
-        "added": 1707762245000,
+        "added": 1707763633000,
         "categories": [
           "Internet",
           "Security"
         ],
-        "lastUpdated": 1707762245000,
+        "lastUpdated": 1707763633000,
         "license": "GPL-3.0",
         "sourceCode": "https://github.com/Eluded-Smartphones/Eluded-Privacy-Manager",
         "screenshots": {
@@ -61,7 +61,7 @@
       },
       "versions": {
         "5b9677f5a7466a4b0a710bd10891eb803aee050b293b2b596f1bcef1495e5694": {
-          "added": 1707762245000,
+          "added": 1707763633000,
           "file": {
             "name": "/EludedPrivacyManager_1.0.0.apk",
             "sha256": "5b9677f5a7466a4b0a710bd10891eb803aee050b293b2b596f1bcef1495e5694",
@@ -128,6 +128,32 @@
                 "name": "android.permission.USE_FINGERPRINT"
               }
             ]
+          }
+        }
+      }
+    },
+    "d24280700483135341134d95d7bc1d363731d4c846c83485481ae3b1143ab6f9": {
+      "metadata": {
+        "added": 1707763639000,
+        "categories": [
+          "fdroid"
+        ],
+        "lastUpdated": 1707763639000,
+        "name": {
+          "en-US": "logo"
+        }
+      },
+      "versions": {
+        "d24280700483135341134d95d7bc1d363731d4c846c83485481ae3b1143ab6f9": {
+          "added": 1707763639000,
+          "file": {
+            "name": "/logo.png",
+            "sha256": "d24280700483135341134d95d7bc1d363731d4c846c83485481ae3b1143ab6f9",
+            "size": 24293
+          },
+          "manifest": {
+            "versionName": "d242807",
+            "versionCode": 0
           }
         }
       }

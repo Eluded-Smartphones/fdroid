@@ -7,6 +7,7 @@ This repository hosts an [F-Droid](https://f-droid.org/) repo for my apps. This 
 | Icon | Name | Description | Version |
 | --- | --- | --- | --- |
 | <a href="https://github.com/Eluded-Smartphones/Eluded-Privacy-Manager"><img src="fdroid/repo/icons/com.eluded.privacymanager.39.png" alt="Eluded Privacy Manager icon" width="36px" height="36px"></a> | [**Eluded Privacy Manager**](https://github.com/Eluded-Smartphones/Eluded-Privacy-Manager) | Easily Configure Common Privacy Related Settings for CalyxOS | DEBUG - c1f9303 (39) |
+| <a href=""><img src="fdroid/repo/icons/" alt="logo icon" width="36px" height="36px"></a> | [**logo**]() |  |  (2147483647) |
 <!-- end apps table -->
 
 ### How to use

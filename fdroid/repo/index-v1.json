@@ -1,10 +1,10 @@
 {
   "repo": {
-    "timestamp": 1707762250000,
+    "timestamp": 1707763640000,
     "version": 20002,
     "name": "EludedPhone FDroid Repo",
     "icon": "icon.png",
-    "address": "https://raw.githubusercontent.com/Eluded-Smartphones/fdroid/master/fdroid/repo",
+    "address": "https://eluded-smartphones.github.io/fdroid/fdroid/repo",
     "description": "This is a repository of apps to be used with F-Droid. Applications in this repository are either official binaries built by the original application developers, or are binaries built from source by the admin of f-droid.org using the tools on https://gitlab.com/fdroid."
   },
   "requests": {
@@ -24,10 +24,10 @@
       "name": "Eluded Privacy Manager",
       "sourceCode": "https://github.com/Eluded-Smartphones/Eluded-Privacy-Manager",
       "summary": "Easily Configure Common Privacy Related Settings for CalyxOS",
-      "added": 1707762245000,
+      "added": 1707763633000,
       "icon": "com.eluded.privacymanager.39.png",
       "packageName": "com.eluded.privacymanager",
-      "lastUpdated": 1707762245000,
+      "lastUpdated": 1707763633000,
       "localized": {
         "en-US": {
           "phoneScreenshots": [
@@ -36,12 +36,23 @@
           ]
         }
       }
+    },
+    {
+      "categories": [
+        "fdroid"
+      ],
+      "suggestedVersionCode": "2147483647",
+      "license": "Unknown",
+      "name": "logo",
+      "added": 1707763639000,
+      "packageName": "d24280700483135341134d95d7bc1d363731d4c846c83485481ae3b1143ab6f9",
+      "lastUpdated": 1707763639000
     }
   ],
   "packages": {
     "com.eluded.privacymanager": [
       {
-        "added": 1707762245000,
+        "added": 1707763633000,
         "apkName": "EludedPrivacyManager_1.0.0.apk",
         "features": [
           "android.software.device_admin"
@@ -114,6 +125,17 @@
         ],
         "versionCode": 39,
         "versionName": "DEBUG - c1f9303"
+      }
+    ],
+    "d24280700483135341134d95d7bc1d363731d4c846c83485481ae3b1143ab6f9": [
+      {
+        "added": 1707763639000,
+        "apkName": "logo.png",
+        "hash": "d24280700483135341134d95d7bc1d363731d4c846c83485481ae3b1143ab6f9",
+        "hashType": "sha256",
+        "packageName": "d24280700483135341134d95d7bc1d363731d4c846c83485481ae3b1143ab6f9",
+        "size": 24293,
+        "versionName": "d242807"
       }
     ]
   }
