@@ -1,0 +1,40 @@
+{
+  "repo": {
+    "timestamp": 1707758057000
+  },
+  "packages": {
+    "com.eluded.privacymanager": {
+      "metadata": {
+        "categories": [
+          "Internet",
+          "Security"
+        ],
+        "license": "GPL-3.0",
+        "sourceCode": "https://github.com/Eluded-Smartphones/Eluded-Privacy-Manager",
+        "screenshots": {
+          "phone": {
+            "en-US": [
+              {
+                "name": "/com.eluded.privacymanager/en-US/phoneScreenshots/1.png",
+                "sha256": "4a42acb0f49287a432a32c0f934f0db85311afc9a011fe95700684c204a7442b",
+                "size": 58244
+              },
+              {
+                "name": "/com.eluded.privacymanager/en-US/phoneScreenshots/2.png",
+                "sha256": "e91d7a2bb9a489f54a12d2caec2ad24ec162566a8ae1d5a522cd18fea1c59a9d",
+                "size": 201933
+              }
+            ]
+          }
+        },
+        "authorName": "Eluded-Smartphones",
+        "name": {
+          "en-US": "Eluded Privacy Manager"
+        },
+        "summary": {
+          "en-US": "Easily Configure Common Privacy Related Settings for CalyxOS"
+        }
+      }
+    }
+  }
+}

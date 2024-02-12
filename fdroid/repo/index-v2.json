@@ -1,0 +1,136 @@
+{
+  "repo": {
+    "name": {
+      "en-US": "EludedPhone FDroid Repo"
+    },
+    "description": {
+      "en-US": "This is a repository of apps to be used with F-Droid. Applications in this repository are either official binaries built by the original application developers, or are binaries built from source by the admin of f-droid.org using the tools on https://gitlab.com/fdroid."
+    },
+    "icon": {
+      "en-US": {
+        "name": "/icons/icon.png",
+        "sha256": "5108106058d5d7d5e93665968624bfb25f9efbdbf8f985b27ff0ced46384f6d0",
+        "size": 993
+      }
+    },
+    "address": "https://raw.githubusercontent.com/Eluded-Smartphones/fdroid/master/fdroid/repo",
+    "timestamp": 1707758057000
+  },
+  "packages": {
+    "com.eluded.privacymanager": {
+      "metadata": {
+        "added": 1707758049000,
+        "categories": [
+          "Internet",
+          "Security"
+        ],
+        "lastUpdated": 1707758049000,
+        "license": "GPL-3.0",
+        "sourceCode": "https://github.com/Eluded-Smartphones/Eluded-Privacy-Manager",
+        "screenshots": {
+          "phone": {
+            "en-US": [
+              {
+                "name": "/com.eluded.privacymanager/en-US/phoneScreenshots/1.png",
+                "sha256": "4a42acb0f49287a432a32c0f934f0db85311afc9a011fe95700684c204a7442b",
+                "size": 58244
+              },
+              {
+                "name": "/com.eluded.privacymanager/en-US/phoneScreenshots/2.png",
+                "sha256": "e91d7a2bb9a489f54a12d2caec2ad24ec162566a8ae1d5a522cd18fea1c59a9d",
+                "size": 201933
+              }
+            ]
+          }
+        },
+        "authorName": "Eluded-Smartphones",
+        "name": {
+          "en-US": "Eluded Privacy Manager"
+        },
+        "summary": {
+          "en-US": "Easily Configure Common Privacy Related Settings for CalyxOS"
+        },
+        "icon": {
+          "en-US": {
+            "name": "/icons/com.eluded.privacymanager.39.png",
+            "sha256": "3142ce8398a101c449973ba22d5f4d26db6b8ba011e55d291b782a85c99cfa7c",
+            "size": 2703
+          }
+        },
+        "preferredSigner": "a4ae3c384ad66d484e02c6fa680c97b72a66ace992b7214f85fb3a07ae75551f"
+      },
+      "versions": {
+        "5b9677f5a7466a4b0a710bd10891eb803aee050b293b2b596f1bcef1495e5694": {
+          "added": 1707758049000,
+          "file": {
+            "name": "/EludedPrivacyManager_1.0.0.apk",
+            "sha256": "5b9677f5a7466a4b0a710bd10891eb803aee050b293b2b596f1bcef1495e5694",
+            "size": 13688278
+          },
+          "manifest": {
+            "versionName": "DEBUG - c1f9303",
+            "versionCode": 39,
+            "features": [
+              {
+                "name": "android.software.device_admin"
+              }
+            ],
+            "usesSdk": {
+              "minSdkVersion": 30,
+              "targetSdkVersion": 32
+            },
+            "signer": {
+              "sha256": [
+                "a4ae3c384ad66d484e02c6fa680c97b72a66ace992b7214f85fb3a07ae75551f"
+              ]
+            },
+            "usesPermission": [
+              {
+                "name": "android.permission.FOREGROUND_SERVICE"
+              },
+              {
+                "name": "android.permission.RECEIVE_BOOT_COMPLETED"
+              },
+              {
+                "name": "org.calyxos.datura.permission.CHANGE_SETTINGS"
+              },
+              {
+                "name": "android.permission.QUERY_ALL_PACKAGES"
+              },
+              {
+                "name": "android.permission.ACCESS_NETWORK_STATE"
+              },
+              {
+                "name": "android.permission.MANAGE_NETWORK_POLICY"
+              },
+              {
+                "name": "android.permission.CONNECTIVITY_INTERNAL"
+              },
+              {
+                "name": "android.permission.NETWORK_STACK"
+              },
+              {
+                "name": "android.permission.PACKAGE_USAGE_STATS"
+              },
+              {
+                "name": "android.permission.INTERACT_ACROSS_USERS"
+              },
+              {
+                "name": "android.permission.NETWORK_SETTINGS"
+              },
+              {
+                "name": "android.permission.WRITE_SECURE_SETTINGS"
+              },
+              {
+                "name": "android.permission.USE_BIOMETRIC"
+              },
+              {
+                "name": "android.permission.USE_FINGERPRINT"
+              }
+            ]
+          }
+        }
+      }
+    }
+  }
+}
