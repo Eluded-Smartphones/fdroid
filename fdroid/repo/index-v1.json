@@ -1,6 +1,6 @@
 {
   "repo": {
-    "timestamp": 1714445459000,
+    "timestamp": 1714531895000,
     "version": 20002,
     "name": "EludedPhone FDroid Repo",
     "icon": "icon.png",
@@ -24,10 +24,10 @@
       "name": "Eluded Privacy Manager",
       "sourceCode": "https://github.com/Eluded-Smartphones/Eluded-Privacy-Manager",
       "summary": "Easily Configure Common Privacy Related Settings for CalyxOS",
-      "added": 1714445453000,
+      "added": 1714531888000,
       "icon": "com.eluded.privacymanager.39.png",
       "packageName": "com.eluded.privacymanager",
-      "lastUpdated": 1714445453000,
+      "lastUpdated": 1714531888000,
       "localized": {
         "en-US": {
           "phoneScreenshots": [
@@ -44,15 +44,15 @@
       "suggestedVersionCode": "2147483647",
       "license": "Unknown",
       "name": "logo",
-      "added": 1714445459000,
+      "added": 1714531894000,
       "packageName": "d24280700483135341134d95d7bc1d363731d4c846c83485481ae3b1143ab6f9",
-      "lastUpdated": 1714445459000
+      "lastUpdated": 1714531894000
     }
   ],
   "packages": {
     "com.eluded.privacymanager": [
       {
-        "added": 1714445453000,
+        "added": 1714531888000,
         "apkName": "EludedPrivacyManager_1.0.0.apk",
         "features": [
           "android.software.device_admin"
@@ -129,7 +129,7 @@
     ],
     "d24280700483135341134d95d7bc1d363731d4c846c83485481ae3b1143ab6f9": [
       {
-        "added": 1714445459000,
+        "added": 1714531894000,
         "apkName": "logo.png",
         "hash": "d24280700483135341134d95d7bc1d363731d4c846c83485481ae3b1143ab6f9",
         "hashType": "sha256",
