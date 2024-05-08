@@ -14,17 +14,17 @@
       }
     },
     "address": "https://eluded-smartphones.github.io/fdroid/fdroid/repo",
-    "timestamp": 1715125427000
+    "timestamp": 1715129582000
   },
   "packages": {
     "com.eluded.privacymanager": {
       "metadata": {
-        "added": 1715125422000,
+        "added": 1715129575000,
         "categories": [
           "Internet",
           "Security"
         ],
-        "lastUpdated": 1715125422000,
+        "lastUpdated": 1715129576000,
         "license": "GPL-3.0",
         "sourceCode": "https://github.com/Eluded-Smartphones/Eluded-Privacy-Manager",
         "screenshots": {
@@ -57,11 +57,87 @@
             "size": 2703
           }
         },
-        "preferredSigner": "a4ae3c384ad66d484e02c6fa680c97b72a66ace992b7214f85fb3a07ae75551f"
+        "preferredSigner": "9e9e25fbcc52b7404153fa2b8228055eb041482900c40a90004b9a81d4848deb"
       },
       "versions": {
+        "26b6945363903a286cbc75b8b00b4029f2da1e090ec3f648839fab0589e89ab6": {
+          "added": 1715129576000,
+          "file": {
+            "name": "/EludedPrivacyManager_1.1.1.apk",
+            "sha256": "26b6945363903a286cbc75b8b00b4029f2da1e090ec3f648839fab0589e89ab6",
+            "size": 14058055
+          },
+          "manifest": {
+            "versionName": "DEBUG - a28c196",
+            "versionCode": 39,
+            "features": [
+              {
+                "name": "android.software.device_admin"
+              },
+              {
+                "name": "android.hardware.usb.host"
+              },
+              {
+                "name": "android.hardware.usb.accessory"
+              }
+            ],
+            "usesSdk": {
+              "minSdkVersion": 30,
+              "targetSdkVersion": 33
+            },
+            "signer": {
+              "sha256": [
+                "9e9e25fbcc52b7404153fa2b8228055eb041482900c40a90004b9a81d4848deb"
+              ]
+            },
+            "usesPermission": [
+              {
+                "name": "android.permission.FOREGROUND_SERVICE"
+              },
+              {
+                "name": "android.permission.RECEIVE_BOOT_COMPLETED"
+              },
+              {
+                "name": "org.calyxos.datura.permission.CHANGE_SETTINGS"
+              },
+              {
+                "name": "android.permission.QUERY_ALL_PACKAGES"
+              },
+              {
+                "name": "android.permission.ACCESS_NETWORK_STATE"
+              },
+              {
+                "name": "android.permission.MANAGE_NETWORK_POLICY"
+              },
+              {
+                "name": "android.permission.CONNECTIVITY_INTERNAL"
+              },
+              {
+                "name": "android.permission.NETWORK_STACK"
+              },
+              {
+                "name": "android.permission.PACKAGE_USAGE_STATS"
+              },
+              {
+                "name": "android.permission.INTERACT_ACROSS_USERS"
+              },
+              {
+                "name": "android.permission.NETWORK_SETTINGS"
+              },
+              {
+                "name": "android.permission.WRITE_SECURE_SETTINGS"
+              },
+              {
+                "name": "android.permission.USE_BIOMETRIC"
+              },
+              {
+                "name": "android.permission.USE_FINGERPRINT"
+              }
+            ]
+          }
+        },
         "5b9677f5a7466a4b0a710bd10891eb803aee050b293b2b596f1bcef1495e5694": {
-          "added": 1715125422000,
+          "added": 1715129575000,
           "file": {
             "name": "/EludedPrivacyManager_1.0.0.apk",
             "sha256": "5b9677f5a7466a4b0a710bd10891eb803aee050b293b2b596f1bcef1495e5694",
