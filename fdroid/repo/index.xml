@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8"?>
+<fdroid>
+	<repo icon="icon.png" name="Eluded Smartphones Repo" pubkey="308204f1308202d9a003020102020465c2f4ca300d06092a864886f70d01010b050030283110300e060355040b1307462d44726f6964311430120603550403130b6d706c616e742e746563683020170d3234303730343138323830385a180f32303531313132303138323830385a30283110300e060355040b1307462d44726f6964311430120603550403130b6d706c616e742e7465636830820222300d06092a864886f70d01010105000382020f003082020a0282020100a0d35b1ac8605bae02732909e7e9ab1d9ed0b8d21a6d04a6a3ef2f42a90baff5bc8431d6c4b44b46fe3c1ec646a964e751bdd05027d49b7cfce092519a969d33ae41ada6ef8b51bdae9100faa348cfe5c0782e020e111d036a4f07a760675d63bb8c860fcba74b99ed4af68a6852ba32107ec56acd44dea2113847bc402fee900093f16ec52ba60580edd709713a6e3bf6de6cf11363effa36312e6ae7626a3b00950c467a1ff91adbb86aee4e5fd8170c073f13fa278764088a3f59595c3103958cd079a6ec866f5e2e243c5fa3e20f1b38124495bcf5d451687d339193696b8dbc96c29894f27496fbcbaf727b56411221eb665c504a06841af7a245863aeddcf72c7c88185b5d2422426b8357f27f545194f161bb69167712d570ea48b15034d59f604a81e4c86d24faa37d15534d21ce9ffd8a11098b944b25a4ae23d5ed1c4b2b4b88ab732de114464cb05229bf954b768b064fbfa1ea25c0f94f16a9c988d11a96ff22279104d032d45e879c7aeea861df0859301a4e3357381bcf44507c4f82833c0defc2aaeb132fff463083f9403822c0e70bf626720a8da273880a53e30a5e83722286718a8d941237f38e2faabdb665890b04febdc96472e08139beb98e08ac54ff3b9bb764874b7c3411e9bb676acdb6d5e3560ad803ac928d9d17f77559d6c6f518de81b89e60e8d6ad0ae2d828b38faf115bf1f97ba5dbd18f0203010001a321301f301d0603551d0e04160414e017a975719bfc97c7bcad85fec5cf1c36e3b287300d06092a864886f70d01010b050003820201003e4fe1b7ff02207754f8ac1f78cca603ba59fc7f2bece0e1b07a8ad381f74ed1f88885151ddfe9b20677ce1b5aac73f3998cece383768a8ad8d4374631715e648ff8e54be017a38131fa6f88ce5bed843174849ccc18c5b536c08957579322da4fdea22c7b9a32b67c8f8edbd51b0036fa7b810108a474debb8772ef1592f4ed88e1926f9779dcd25e9c15444a26fffab760b69b727c16fd6493024ba1d4e1217551b262deba538fba381739d44a348dbd0da8a0a30ed024e1cbb3f429c2784d4325a52f309350ff53553bdbd435f0ec8f3d61e17b31401d188884495e284f3412b558e2fef78e15d1a5f5a5a6765fb33abf5d172de78bcab406827887d9a7bee94239f25d3767463611354f1c300c009b60ed3e103bdad8065ce6a6decb60b03a9543f12ad3519eba909fa4f0fd20d97521c553bab6ab7aeaad45e72a75b528b1c8402bf8c17eab7d26dfcb2da51bbcbffb0289ded89c68544b4a6ea11a02fc9140813c681f9623fce9c2ba29349e4cd206819a1055a275ad2c49315fa966bf6f33cc1780f1236f4d5ec80a8c4fd5a1ffbe06cbe0f94c67fdf3e3035d824d7ebefe3ad2a70a214bfc76638db1c26a4e88faf24a6036674c091621f943d6322134496680a7af98102253d27d0f772105dd6c499875be4a18f49c228e829c0a8377f19c12b9f9c13bc7f690f734910889a37d8148852537ef42695ade42910081" timestamp="1720117770" url="https://raw.githubusercontent.com/Eluded-Smartphones/fdroid/main/fdroid/repo" version="20002">
+		<description>This is a repository of apps to be used with F-Droid. Applications in this repository are either official binaries built by the original application developers, or are binaries built from source by the admin of f-droid.org using the tools on https://gitlab.com/fdroid.</description>
+	</repo>
+	<application id="com.eluded.privacymanager">
+		<id>com.eluded.privacymanager</id>
+		<added>2024-07-04</added>
+		<lastupdated>2024-07-04</lastupdated>
+		<name>Eluded Privacy Manager</name>
+		<summary>Easily Configure Common Privacy Related Settings for CalyxOS</summary>
+		<icon>com.eluded.privacymanager.39.png</icon>
+		<desc>No description available</desc>
+		<license>GPL-3.0</license>
+		<categories>Internet,Security</categories>
+		<category>Internet</category>
+		<web></web>
+		<source>https://github.com/Eluded-Smartphones/Eluded-Privacy-Manager</source>
+		<tracker></tracker>
+		<author>Eluded-Smartphones</author>
+		<marketversion>refs/tags/1.1.6</marketversion>
+		<marketvercode>39</marketvercode>
+		<package>
+			<version>DEBUG - c1f9303</version>
+			<versioncode>39</versioncode>
+			<apkname>EludedPrivacyManager_1.0.0.apk</apkname>
+			<hash type="sha256">5b9677f5a7466a4b0a710bd10891eb803aee050b293b2b596f1bcef1495e5694</hash>
+			<size>13688278</size>
+			<sdkver>30</sdkver>
+			<targetSdkVersion>32</targetSdkVersion>
+			<added>2024-07-04</added>
+			<sig>f42bde254eda07456085e547bb095d58</sig>
+			<permissions>ACCESS_NETWORK_STATE,CONNECTIVITY_INTERNAL,FOREGROUND_SERVICE,INTERACT_ACROSS_USERS,MANAGE_NETWORK_POLICY,NETWORK_SETTINGS,NETWORK_STACK,PACKAGE_USAGE_STATS,QUERY_ALL_PACKAGES,RECEIVE_BOOT_COMPLETED,USE_BIOMETRIC,USE_FINGERPRINT,WRITE_SECURE_SETTINGS,org.calyxos.datura.permission.CHANGE_SETTINGS</permissions>
+			<features>android.software.device_admin</features>
+		</package>
+	</application>
+</fdroid>
